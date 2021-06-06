@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  11 MAY 2021 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  6 JUN 2021 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1386,53 +1386,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (./abstract.tex)
-(./report.toc)
+ (./report.toc)
 \tf@toc=\write7
 \openout7 = `report.toc'.
 
- [1
+
+[1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./mainbody.tex
 )
 Package epstopdf Info: Source file: <logos/tulip-logo.eps>
-(epstopdf)                    date: 2021-05-11 15:33:53
+(epstopdf)                    date: 2021-01-30 00:46:22
 (epstopdf)                    size: 1059122 bytes
 (epstopdf)             Output file: <logos/tulip-logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-05-11 15:41:50
-(epstopdf)                    size: 21511 bytes
-(epstopdf)             Command: <repstopdf --outfile=logos/tulip-logo-eps-conve
-rted-to.pdf logos/tulip-logo.eps>
-(epstopdf)             \includegraphics on input line 63.
-Package epstopdf Info: Output file is already uptodate.
-<logos/tulip-logo-eps-converted-to.pdf, id=78, 456.70625pt x 622.325pt>
-File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logos/tulip-logo-eps-converted-to.pdf>
-Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input l
-ine 63.
-(pdftex.def)             Requested size: 7.92348pt x 10.79993pt.
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.79996pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.79996pt}.
-
-[2 <./logos/tulip-logo-eps-converted-to.pdf>] (./report.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-)
-Package epstopdf Info: Source file: <logos/tulip-logo.eps>
-(epstopdf)                    date: 2021-05-11 15:33:53
-(epstopdf)                    size: 1059122 bytes
-(epstopdf)             Output file: <logos/tulip-logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-05-11 15:41:50
+(epstopdf)                    date: 2021-03-29 11:27:23
 (epstopdf)                    size: 21511 bytes
 (epstopdf)             Command: <repstopdf --outfile=logos/tulip-logo-eps-conve
 rted-to.pdf logos/tulip-logo.eps>
 (epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
+<logos/tulip-logo-eps-converted-to.pdf, id=48, 456.70625pt x 622.325pt>
 File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logos/tulip-logo-eps-converted-to.pdf>
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input l
@@ -1444,41 +1418,32 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[3]
+[2 <./logos/tulip-logo-eps-converted-to.pdf>]
 No complaints by nag.
 (./report.aux)
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: F820CAEBD7EA659EC267CFEC9E599FA9;873
-(rerunfilecheck)             After:  2FBB327A02EC41E20DDABDE381C0EC0C;758.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: E07D1ABD7FD7BB7AF49F1D21D0C172A8;152.
  ) 
 Here is how much of TeX's memory you used:
- 35978 strings out of 479014
- 694730 string characters out of 5863086
- 1163013 words of memory out of 5000000
- 52566 multiletter control sequences out of 15000+600000
+ 35951 strings out of 479014
+ 694402 string characters out of 5863086
+ 1161812 words of memory out of 5000000
+ 52551 multiletter control sequences out of 15000+600000
  413013 words of font info for 83 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  133i,14n,134p,438b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.4} has been referenced but does not exis
-t, replaced by a fixed one
-
-<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texli
-ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/2020/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsl10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pf
-b><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (3 pages, 124179 bytes).
+<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsl10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
+pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on report.pdf (2 pages, 120603 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 26794 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 26746 words of extra memory for PDF output out of 29859 (max. 10000000)
 
