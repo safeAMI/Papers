@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  6 JUN 2021 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  22 JUN 2021 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1229,11 +1229,11 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen342
 \ESO@tempdimb=\dimen343
 )
-
-Package gitinfo2 Warning: I can't find the file '.git/gitHeadInfo.gin'.
-(gitinfo2)                All git metadata has been set to '(None)'.
-
-) (d:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(./.git/gitHeadInfo.gin)
+(d:/texlive/2020/texmf-dist/tex/latex/gitinfo2/gitexinfo.sty
+Package: gitexinfo 2015/11/22 v2.0.7 Auxiliary package for gitinfo2
+))
+(d:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip94
@@ -1422,13 +1422,13 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 No complaints by nag.
 (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: E07D1ABD7FD7BB7AF49F1D21D0C172A8;152.
+(rerunfilecheck)             Checksum: B12A058EFE511E1EFED5BC17EE856B27;147.
  ) 
 Here is how much of TeX's memory you used:
- 35951 strings out of 479014
- 694402 string characters out of 5863086
- 1161812 words of memory out of 5000000
- 52551 multiletter control sequences out of 15000+600000
+ 35994 strings out of 479014
+ 695139 string characters out of 5863086
+ 1163665 words of memory out of 5000000
+ 52594 multiletter control sequences out of 15000+600000
  413013 words of font info for 83 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  133i,14n,134p,438b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1440,7 +1440,7 @@ pe1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsl10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
 pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (2 pages, 120603 bytes).
+Output written on report.pdf (2 pages, 119110 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
